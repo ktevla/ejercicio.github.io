@@ -1,10 +1,5 @@
 # NOMINA
-## Lista de Empleados
-|Nombre|Salario devengado|
-|:-----:|:----------------:|-----
-1. Pablo Ramirez
-  - salario devengado : 2.000.000
-  - horas extras: 5
-  - pension y salud: 4%
-  - salario neto: 
-  - auxilio transporte: 130.000
+Desarrollo de una aplicación que necesita un coordinador de nomina de una empresa, que desea realizar el proceso de pago de nomina para tener el pago oportuno a sus empleados sin retrasos ni complicaciones. Esta empresa requiere sistematizar su proceso de pago de nomina actual. Como informacion se requiere: nombre del empleado,salario,devengados y deducciones.
+
+## Aclaraciones:
+
