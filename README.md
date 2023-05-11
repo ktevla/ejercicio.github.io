@@ -3,4 +3,6 @@ Desarrollo de una aplicación que necesita un coordinador de nomina de una empre
 
 ## Aclaraciones:
 
-- ñ
+- Esta aplicacion calculara la nomina de cada empleado mensualmente
+- Para manejar una simplicidad no se contemplara almacenamiento de datos
+- Verificación y generación.
