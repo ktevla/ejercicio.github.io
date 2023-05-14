@@ -8,5 +8,8 @@ Desarrollo de una aplicación que necesita un coordinador de nomina de una empre
 - No se realiza validacion, ni se verifica calidad en los datos ingresados.
 
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_1.png)
+![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_2.png)
+![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_3.png)
+
 
 
