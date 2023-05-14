@@ -7,7 +7,7 @@ Desarrollo de una aplicación que necesita un coordinador de nomina de una empre
 - Para manejar una simplicidad no se contemplara almacenamiento de datos
 - No se realiza validacion, ni se verifica calidad en los datos ingresados.
 
-### Analisis del Ejercicio:
+### Análisis del Ejercicio:
 _Aproximación Plantilla Historia de Usuario:_
 
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_1.png)
