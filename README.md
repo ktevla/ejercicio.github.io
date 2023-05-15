@@ -24,9 +24,6 @@ _Aproximación Plantilla Historia de Usuario:_
 
 ## Aproximación Seudocódigo: 
 
--Inicio
--Caracteres: identificaciones [50], nombres [50], apellidos [50]
--Real: horasTrabajadas [50], sueldoXHora [50]
 
 
                                                                                   
