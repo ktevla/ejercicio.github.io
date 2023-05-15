@@ -22,6 +22,7 @@ _Aproximación Plantilla Historia de Usuario:_
 
 ##### _Aproximación Seudocódigo:_ 
 Inicio
+> Caracteres: 
 
 
                                                                                   
