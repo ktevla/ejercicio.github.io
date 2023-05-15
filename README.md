@@ -14,9 +14,9 @@ _Aproximación Plantilla Historia de Usuario:_
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_2.png)
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_3.png)
 
-#### _Aproximación Caso de Uso:_                                                            Descripción Caso de Uso
-                                                                                            _Nombre:_ Calcular Nomina de Empleados
-![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Caso_Uso.png)           _Actores:_ Coordinador de Nomina
+#### _Aproximación Caso de Uso:_                                                            
+                                                                                  
+![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Caso_Uso.png)          
                                                                                   
 
 
