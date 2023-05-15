@@ -23,7 +23,7 @@ _Aproximación Plantilla Historia de Usuario:_
 ###### _Aproximación Seudocódigo:_ 
 
 Inicio
-| Carasteres: identificaciones [50], nombres [50], apellidos [50]
+⌥→ Carasteres: identificaciones [50], nombres [50], apellidos [50]
 
                                                                                   
 
