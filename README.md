@@ -7,22 +7,22 @@ Desarrollo de una aplicación que necesita un coordinador de nomina de una empre
 - Para manejar una simplicidad no se contemplara almacenamiento de datos
 - No se realiza validacion, ni se verifica calidad en los datos ingresados.
 
-### Análisis del Ejercicio:
+## Análisis del Ejercicio:
 _Aproximación Plantilla Historia de Usuario:_
 
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_1.png)
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_2.png)
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_3.png)
 
-#### _Aproximación Caso de Uso:_                                                            
+## _Aproximación Caso de Uso:_                                                            
                                                                                   
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Caso%20de%20uso%20(2).png) 
 
-##### _Aproximación Diagrama de Flujo:_ 
+## _Aproximación Diagrama de Flujo:_ 
 
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Diagrama%20de%20Flujo.png)
 
-##### _Aproximación Seudocódigo:_ 
+## _Aproximación Seudocódigo:_ 
 
 -Inicio
 -Caracteres: identificaciones [50], nombres [50], apellidos [50]
