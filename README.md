@@ -21,6 +21,7 @@ _Aproximación Plantilla Historia de Usuario:_
 ##### _Aproximación Diagrama de Flujo:_ 
 
 ##### _Aproximación Seudocódigo:_ 
+
 Inicio
 > Caracteres: 
 > Real: 
