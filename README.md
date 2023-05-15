@@ -22,7 +22,11 @@ _Aproximación Plantilla Historia de Usuario:_
 
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Diagrama%20de%20Flujo.png)
 
-#### Aproximación Seudocódigo: 
+## Aclaraciones:
+
+- Esta aplicacion calculara la nomina de cada empleado mensualmente
+- Para manejar una simplicidad no se contemplara almacenamiento de datos
+- No se realiza validacion, ni se verifica calidad en los datos ingresados.
 
 
 
