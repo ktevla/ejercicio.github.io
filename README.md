@@ -14,6 +14,10 @@ _Aproximación Plantilla Historia de Usuario:_
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_2.png)
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Historia_3.png)
 
+#### _Aproximación Caso de Uso:_
+
+
+
 
 
 
