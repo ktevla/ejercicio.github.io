@@ -16,7 +16,9 @@ _Aproximación Plantilla Historia de Usuario:_
 
 #### _Aproximación Caso de Uso:_                                                            
                                                                                   
-![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Caso%20de%20uso%20(2).png)          
+![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Caso%20de%20uso%20(2).png) 
+
+##### _Aproximación Diagrama de Flujo:_ 
                                                                                   
 
 
