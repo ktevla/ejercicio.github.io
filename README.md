@@ -22,7 +22,7 @@ _Aproximación Plantilla Historia de Usuario:_
 
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Diagrama%20de%20Flujo.png)
 
-###### Aproximación Seudocódigo: 
+#### Aproximación Seudocódigo: 
 
 
 
