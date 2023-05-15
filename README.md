@@ -55,7 +55,7 @@ _Aproximación Plantilla Historia de Usuario:_
   - total + (horasTrabajadas[i])sueldoXHora[i]
   - finPara
   - Imprimir: 'El total es: + total
--Fin
+- Fin
 
 
                                                                                   
