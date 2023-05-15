@@ -30,10 +30,32 @@ _Aproximación Plantilla Historia de Usuario:_
   - Caracteres: identificacion, nombre, apellido
   - Entero: numeroEmpleados, i
   - Real: horas, sueldo, total<- 0
-  - Imprimir: ´Digite el numero de empleados:´
+  - Imprimir: 'Digite el numero de empleados:'
   - Asignar: numeroEmpleados
-  - Para
-
+  - Para  i=0 hasta numeroEmpleados - 1, 1
+  - Imprimir: 'Digite la identificacion del empleado:'
+  - Asignar: identificacion
+  - Imprimir: 'Digite el nombre del empleado:'
+  - Asignar: nombre
+  - Imprimir: 'Digite el apellido del empleado:'
+  - Asignar: apellido
+  - Imprimir: 'Digite el numero de horas trabajadas del empleado:'
+  - Asignar: horas
+  - Imprimir: 'Digite el sueldo por hora del empleado:'
+  - Asignar: sueldo
+  - identificaciones[i] <- identificacion
+  - nombres[i] <- identificacion
+  - identificaciones[i] <- nombre
+  - apellidos[i] <- apellido
+  - horasTrabajadas[i] <- horas
+  - sueldoXHora[i] <- sueldo
+  - finPara
+  - Para i=0 hasta numeroEmpleados -1, 1
+  - total <-
+  - total + (horasTrabajadas[i])sueldoXHora[i]
+  - finPara
+  - Imprimir: 'El total es: + total
+-Fin
 
 
                                                                                   
