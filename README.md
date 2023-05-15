@@ -1,7 +1,7 @@
 # NOMINA
 Desarrollo de una aplicación que necesita un coordinador de nomina de una empresa, para realizar el proceso de pago de nomina y poder tener el pago oportuno a sus empleados sin retrasos ni complicaciones. Esta empresa requiere sistematizar su proceso de pago de nomina actual. Como informacion se requiere: identificacion, nombre,apellidos,horas trabajadas y sueldo del empleado.
 
-## Aclaraciones:
+### Aclaraciones:
 
 - Esta aplicacion calculara la nomina de cada empleado mensualmente
 - Para manejar una simplicidad no se contemplara almacenamiento de datos
@@ -22,7 +22,7 @@ _Aproximación Plantilla Historia de Usuario:_
 
 ![alt text](https://github.com/ktevla/ejercicio.github.io/blob/main/Diagrama%20de%20Flujo.png)
 
-## _Aproximación Seudocódigo:_ 
+## Aproximación Seudocódigo: 
 
 -Inicio
 -Caracteres: identificaciones [50], nombres [50], apellidos [50]
