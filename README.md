@@ -25,8 +25,14 @@ _Aproximación Plantilla Historia de Usuario:_
 ### Aproximación Seudocódigo:
 
 - Inicio
-  - Para manejar una simplicidad no se contemplara almacenamiento de datos
-  - No se realiza validacion, ni se verifica calidad en los datos ingresados.
+  - Caracteres: identificaciones [50], nombres [50], apellidos [50]
+  - Real: horasTrabajadas [50], sueldoXHora [50]
+  - Caracteres: identificacion, nombre, apellido
+  - Entero: numeroEmpleados, i
+  - Real: horas, sueldo, total<- 0
+  - Imprimir: ´Digite el numero de empleados:´
+  - Asignar: numeroEmpleados
+  - Para
 
 
 
