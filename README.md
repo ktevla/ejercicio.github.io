@@ -24,8 +24,8 @@ _Aproximación Plantilla Historia de Usuario:_
 
 ### Aproximación Seudocódigo:
 
-- Esta aplicacion calculara la nomina de cada empleado mensualmente
-- Para manejar una simplicidad no se contemplara almacenamiento de datos
+- Inicio
+-- Para manejar una simplicidad no se contemplara almacenamiento de datos
 - No se realiza validacion, ni se verifica calidad en los datos ingresados.
 
 
